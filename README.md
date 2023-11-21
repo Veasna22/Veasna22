@@ -37,10 +37,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 20 November 2023
-
-Total Time: 17 hrs 32 mins
-
 No activity tracked
 ```
 
