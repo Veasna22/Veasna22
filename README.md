@@ -35,4 +35,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaveasna52&" alt="eaveasna52" /></p>
 <figure><embed src="https://wakatime.com/share/@018b13b3-c631-4c9f-8062-75d9936b7e81/d1826ef1-42c6-47a3-b48f-f5817b2ef2fb.svg"></embed></figure>
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 November 2023 - To: 20 November 2023
+
+Total Time: 17 hrs 32 mins
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
