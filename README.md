@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Veasna22&show_icons=true&theme=dracula&show_icons=true&locale=en" alt="Veasna22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Veasna22&" alt="Veasna22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Veasna22&show_icons=true&theme=dracula" alt="Veasna22" /></p>
 <figure><embed src="https://wakatime.com/share/@018b13b3-c631-4c9f-8062-75d9936b7e81/d1826ef1-42c6-47a3-b48f-f5817b2ef2fb.svg"></embed></figure>
 <!--START_SECTION:waka-->
 
