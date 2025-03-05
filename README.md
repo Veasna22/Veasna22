@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 03 March 2025
+From: 08 October 2023 - To: 04 March 2025
 
-Total Time: 1,065 hrs 1 min
+Total Time: 1,067 hrs 19 mins
 
-Kotlin                 346 hrs 10 mins >>>>>>>>-----------------   32.50 %
-TypeScript             287 hrs 32 mins >>>>>>>------------------   27.00 %
-Java                   187 hrs 56 mins >>>>---------------------   17.65 %
-Lua                    48 hrs 12 mins  >------------------------   04.53 %
-XML                    41 hrs 23 mins  >------------------------   03.89 %
+Kotlin                 347 hrs 21 mins >>>>>>>>-----------------   32.54 %
+TypeScript             287 hrs 47 mins >>>>>>>------------------   26.96 %
+Java                   187 hrs 56 mins >>>>---------------------   17.61 %
+Lua                    49 hrs 2 mins   >------------------------   04.60 %
+XML                    41 hrs 23 mins  >------------------------   03.88 %
 ```
 
 <!--END_SECTION:waka-->
